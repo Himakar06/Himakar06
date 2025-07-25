@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Himakar 👋</h1>
 
 <p align="center">
-  💻 Software Developer | 🌩️ Cloud & ML Enthusiast 
+   🌩️ Cloud & ML Enthusiast 
 </p>
 
 <p align="center">
