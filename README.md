@@ -27,11 +27,12 @@ I'm on a continuous journey to master ML workflows, cloud deployment pipelines, 
 
 Here are a few highlights from my portfolio:
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🧠 **Employee Attrition Analysis** | Predict employee turnover using classification models | Python, Sklearn, Pandas |
-| 🛒 **Superstore Sales Dashboard** | EDA + visualization to uncover business insights | Python, Matplotlib, Seaborn |
-| 👥 **Customer Segmentation** | Unsupervised learning using K-Means | Scikit-learn, PCA, Clustering |
+| Project                            | Description                                           | Tools                       |
+| ---------------------------------- | ----------------------------------------------------- | --------------------------- |
+| 🔍 **Insight-Service**             | Auto-generates insights from data                     | Python, Pandas, Streamlit   |
+| 🧠 **Employee Attrition Analysis** | Predict employee turnover using classification models | Python, Sklearn, Pandas     |
+| 🛒 **Superstore Sales Dashboard**  | EDA + visualization to uncover business insights      | Python, Matplotlib, Seaborn |
+
 
 ---
 
